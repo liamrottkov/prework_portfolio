@@ -1,0 +1,30 @@
+nav{
+    text-align: center
+}
+
+
+body {
+    font-size: 17px;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    background-color: rgb(247, 220, 180);
+}
+
+a:link, a:visited {
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+
+img.self {
+    max-width: 280px;
+    max-height: 2800px;
+}
